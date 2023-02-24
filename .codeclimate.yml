@@ -1,0 +1,12 @@
+engines:
+  duplication:
+    enabled: false
+  structure:
+    enabled: false
+  flog:
+    channel: beta 
+    enabled: true 
+    config:
+      score_threshold: 1.0
+  brakeman:
+    enabled: true

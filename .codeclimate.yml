@@ -10,3 +10,4 @@ engines:
       score_threshold: 1.0
   brakeman:
     enabled: true
+    channel: beta
